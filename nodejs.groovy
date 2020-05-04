@@ -13,7 +13,7 @@ job('NodeJS exmple') {
                         // Manage Jenkins -> NodeJS Installations -> Name
         }
         steps {
-            shell("npm install)
+            shell("npm install")
                 }
 }
 
